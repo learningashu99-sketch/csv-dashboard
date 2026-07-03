@@ -2,6 +2,10 @@
 
 An interactive CSV Data Dashboard built with Streamlit that allows users to upload any CSV file, explore the dataset, and generate visualizations without writing code.
 
+## 🚀 Live Demo
+
+https://csv-dashboard-hwpmzjzdxa8gvntdsjmhab.streamlit.app/
+
 ## 🚀 Features
 
 - Upload any CSV file
